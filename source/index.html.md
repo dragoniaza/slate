@@ -3,7 +3,7 @@ title: couch API
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
-  - ruby
+  - php
   - python
   - javascript
 
